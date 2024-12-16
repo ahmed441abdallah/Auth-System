@@ -151,15 +151,4 @@ DB_URI=mongodb+srv://user:password@cluster.mongodb.net/mydatabase
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-## Contributing
-Feel free to submit issues and pull requests for new features or improvements.
-
----
-
-## Contact
-For any inquiries or support, please contact:
-- **Email**: support@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
 
